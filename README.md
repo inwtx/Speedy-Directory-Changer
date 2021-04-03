@@ -7,7 +7,7 @@ v1.2
 # This Linux script makes it easier to switch to sub-directories.
 # It works in conjunction with the .bashrc file. It can only list
 # up to 34 directories.  Place this script contents into a file
-# called 'CD.sh' and make it executable. It should reside in any
+# called 'CD.sh' and make it executable. It can reside in any
 # folder that contains subfolders. You can setup 'CD.sh' by running
 # 'CD.sh y' first to load all subfolders (up to 34) within the base
 # folder that you have placed CD.sh in. Then run './CD.sh' and you
