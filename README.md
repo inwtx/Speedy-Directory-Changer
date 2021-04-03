@@ -1,5 +1,5 @@
 # Speedy-Directory-Changer
-
+v1.1
 ```
 #!/bin/bash
 #
