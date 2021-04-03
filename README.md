@@ -4,7 +4,7 @@ v1.1
 #!/bin/bash
 #
 # CD.sh
-# This script makes it easier to switch up to another directory.
+# This script makes it easier to switch to sub-directories.
 # It works in conjunction with the .bashrc file. It can only list
 # up to 34 directories.  Place this script contents into a file
 # called 'CD.sh' and make it executable. It should reside in any
