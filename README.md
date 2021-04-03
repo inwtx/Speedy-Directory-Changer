@@ -21,10 +21,10 @@ v1.1
 # the 'CD.sh.folders' file.
 
 # 'CD.sh.folders' example entries:
-#./folder1
+#./folder1/
 #./folder1/folder2/
-#./folder2
-#./folder3
+#./folder2//
+#./folder3/
 # ...
 
 # Place these next 6 lines into the respective root and/or user's .bashrc file.
